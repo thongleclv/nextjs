@@ -13,3 +13,8 @@ TypeScript	Improved support for TypeScript, with better type checking and more e
 ======================================
 Motivation: 
 Part of React's success is that it is relatively unopinionated about the other aspects of building applications. This has resulted in a flourishing ecosystem of third-party tools and solutions, including Next.js.
+
+======================================
+Data fetching
+Pre-rendering data
+Static generation:
